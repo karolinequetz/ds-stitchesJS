@@ -1,2 +1,2 @@
 # ds-stitchesJS
-Implementando Design System com StitchesJS no NextJS
+rocketseat experts club - Implementando Design System com StitchesJS no NextJS
